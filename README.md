@@ -73,7 +73,7 @@ The app will be available at `http://localhost:5173` (or the port shown in termi
 
 Below is the complete application flow diagram showing all states, transitions, and edge cases:
 
-![Application Flow Diagram](./diagram-export-15-02-2026-12_07_23.png)
+![Application Flow Diagram](./Flow.png)
 
 ### Flow Overview
 
